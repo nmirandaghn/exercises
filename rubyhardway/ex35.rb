@@ -20,7 +20,6 @@ def gold_room
   end
 end
 
-
 def bear_room
   puts "There is a bear here."
   puts "The bear has a bunch of honey."
@@ -49,7 +48,7 @@ end
 
 def cthulhu_room
   puts "Here you see the great evil Cthulhu."
-  puts "He, it, whatever stares at you and you go insane."
+  puts "Here, it, whatever stares at you and you go insane."
   puts "Do you flee for your life or eat your head?"
 
   print "> "
